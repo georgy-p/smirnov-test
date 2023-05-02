@@ -1,7 +1,7 @@
-import React from 'react';
+import AppForm from "./components/AppForm";
 
-function App() {
-  return <>Your App</>;
-}
+const App = () => {
+  return <AppForm />;
+};
 
 export default App;
